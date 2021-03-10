@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto Slab', arial;
+    background-color: lightslategray;
+}
+
+
+h4 {
+    padding: 10px 8px 10px 8px;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border: none;
+    color: black;
+    border-radius: 5px;
+    padding: 10px 16px 10px 16px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px;
+}
+
+button:hover {
+    background-color: red;
+}
+
+#quiz {
+    text-align: center;
+}
+.timer {
+    float: right;
+}
+
+.scores {
+    float: left;
+}
+
+#nav {
+    display: block;
+    background-color: blue;
+    display: inline-block;
+    width: 98vw;
+    border: 3px solid #e64e79;
+    border-radius: 5px;
+    margin: 6px;
+    }
+
+#quizBody {
+    text-align: center;
+    padding: 12vh;
+    border: 5px solid black;
+}
